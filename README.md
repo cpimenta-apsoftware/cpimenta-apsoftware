@@ -10,7 +10,7 @@
 
 My name is Caique Pimenta and i'm a Software Engineer and Full Stack developer.
 
-- :white_check_mark: Javascrit / TypeScript / Node.js / AngularJS / React JS / Express.js / Loopback
+- :white_check_mark: TypeScript / Node.js / AngularJS / React JS / Express.js / Loopback
 - :white_check_mark: Currently using  **AngularJS** framework to frontend and LoopBack to backend
 - :green_book: Learning Next.js
 
@@ -21,7 +21,7 @@ also i'm CTO of [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informa
 
 Meu nome é Caique Pimenta, sou Engenheiro de Software e Desenvolvedor Full Stack.
 
-- :white_check_mark: Javascrit / TypeScript / Node.js / AngularJS / React JS / Express.js / Loopback
+- :white_check_mark: TypeScript / Node.js / AngularJS / React JS / Express.js / Loopback
 - :white_check_mark: Atualmente usando o framework **AngularJS** para frontend e LoopBack para backend
 - :green_book: Estudando Next.js
 
