@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cpimenta.apsoftware/)](https://www.instagram.com/cpimenta.apsoftware/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.linkedin.com/company/apsoftware)
 
-### Hey! Welcome to my profile on Github
+### Hey! Welcome to my profile on GitHub
 
 My name is Caique Pimenta and i'm a Software Engineer and Full Stack developer.
 
@@ -17,7 +17,7 @@ My name is Caique Pimenta and i'm a Software Engineer and Full Stack developer.
 also i'm CTO of [@APSoftware](https://github.com/AP-Software-Sistemas-de-Informacao) where I do private projects and on demand.
 
 # Portuguese
-### Hey! Bem vindo ao meu Github
+### Hey! Bem vindo ao meu GitHub
 
 Meu nome é Caique Pimenta, sou Engenheiro de Software e Desenvolvedor Full Stack.
 
